@@ -1,2 +1,2 @@
 # demo-repo
-demo for crash course
+demo for the crash course!
